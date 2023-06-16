@@ -1,0 +1,3 @@
+from CustomFuncs import *
+
+Main()
